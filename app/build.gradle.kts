@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.amos.demoskeyboard"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.amos.demoskeyboard"
