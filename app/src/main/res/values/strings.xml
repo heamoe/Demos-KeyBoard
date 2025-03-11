@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemosKeyBoard</string>
+    <string name="keyboard_label">Demos Keyboard</string>
 </resources>
